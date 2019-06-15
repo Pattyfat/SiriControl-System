@@ -8,8 +8,8 @@ import pkgutil
 
 # Add your gmail username and password here
 
-username = ""
-password = ""
+username = "Patrick Odham"
+password = "Patodh625"
 
 ##########################################
 
